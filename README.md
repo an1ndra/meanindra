@@ -1,6 +1,6 @@
 ## Hello World, I'm [Anindra Karmakar](https://github.com/meanindra/) <img src="#Higif" width="28px"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pavan%20Rajesh%20Gandhi-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anindra-karmakar-67720514b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Anindra%20Karmakar-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anindra-karmakar-67720514b/)
 [![Website Badge](https://img.shields.io/badge/Portfolio%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/meanindra)
 [![Twitter Badge](https://img.shields.io/badge/-@iampavangandhi-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/i_anindra)
 [![Instagram Badge](https://img.shields.io/badge/-@iampavangandhi-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/i_anindra/)
