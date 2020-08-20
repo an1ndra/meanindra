@@ -1,10 +1,10 @@
 ## Hello World, I'm [Anindra Karmakar](https://github.com/meanindra/) <img src="#Higif" width="28px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anindra%20Karmakar-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anindra-karmakar-67720514b/)
-[![Website Badge](https://img.shields.io/badge/Portfolio%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/meanindra)
-[![Twitter Badge](https://img.shields.io/badge/-@iampavangandhi-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/i_anindra)
-[![Instagram Badge](https://img.shields.io/badge/-@iampavangandhi-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/i_anindra/)
-[![Telegram Badge](https://img.shields.io/badge/-@iampavangandhi-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/i_anindra)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://codeavenge.com)
+[![Twitter Badge](https://img.shields.io/badge/-@i_anindra-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/i_anindra)
+[![Instagram Badge](https://img.shields.io/badge/-@i_anindra-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/i_anindra/)
+[![Telegram Badge](https://img.shields.io/badge/-@i_anindra-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/i_anindra)
 
 ### Welcome to my github profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=meanindra.meanindra&style=flat-square&color=0088cc)
 
