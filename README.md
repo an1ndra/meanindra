@@ -18,11 +18,10 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 
 - 🛠 I’m currently working with Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript, etc 💻.
 - 🚀 I’m currently learning Full Stack Development.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 How to reach me: pavangandhi100@gmail.com
-- 📝 Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/meanindra).
+- 💬 Ask me about anything [here](https://github.com/meanindra/meanindra/issues/2)! I am happy to help.
+- 📫 How to reach me: anindrakarmakar13@gmail.com
+- 📝 Checkout my [Resume](https://github.com/meanindra/meanindra/blob/master/resume.pdf).
 
 ### Programming language That I Used:
 
