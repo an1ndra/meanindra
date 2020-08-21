@@ -64,7 +64,7 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://github.com/iampavangandhi/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
+	    <td><a href="https://github.com/meanindra/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
@@ -72,7 +72,7 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
       <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
     </tr>
     <tr>
-	    <td><a href="https://github.com/iampavangandhi/Gitwar"><b>🚀 Gitwar</b></a></td>
+	    <td><a href="https://github.com/meanindra/Gitwar"><b>🚀 Gitwar</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
@@ -80,7 +80,7 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
       <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
     </tr>
     <tr>
-	    <td><a href="https://github.com/iampavangandhi/TradeByte"><b>💸 TradeByte</b></a></td>
+	    <td><a href="https://github.com/meanindra/TradeByte"><b>💸 TradeByte</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
@@ -101,7 +101,7 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
   	    <li><b>Browser</b> Firefox Developer Edition</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <br />
-	Checkout The Complete VSCode Settings <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	Checkout The Complete VSCode Settings <a href="https://gist.github.com/meanindra/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>
 	
 </details>
