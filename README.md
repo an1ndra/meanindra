@@ -105,5 +105,5 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 	</ul>
 	
 </details>
-### My Status: 
+
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=meanindra&show_icons=true&hide_border=true" />
