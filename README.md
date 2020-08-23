@@ -29,18 +29,18 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 
 ### Languages and Tools:
 
-<code><img height="25" src="https://raw.githubusercontent.com/meanindra/meanindra/master/python.png" alt="python"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/meanindra/meanindra/master/java.jpg" alt="java"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/meanindra/meanindra/master/android.jpg" alt="android"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/meanindra/meanindra/master/html.png" alt="html"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/meanindra/meanindra/master/css.png" alt="css"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/meanindra/meanindra/master/visual-studio-code.png" alt="vscode"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/meanindra/meanindra/master/figma.png" alt="figma"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/meanindra/meanindra/master/gitkraken.png" alt="gitkraken"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/meanindra/meanindra/master/blender.png" alt="blender"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/meanindra/meanindra/master/git.png" alt="git"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/meanindra/meanindra/master/github-api.png" alt="github"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/meanindra/meanindra/master/terminal.png" alt="terminal"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/python.png" alt="python"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/java.jpg" alt="java"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/android.jpg" alt="android"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/html.png" alt="html"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/css.png" alt="css"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/visual-studio-code.png" alt="vscode"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/figma.png" alt="figma"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/gitkraken.png" alt="gitkraken"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/blender.png" alt="blender"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/git.png" alt="git"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/github-api.png" alt="github"></code>
+<code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/terminal.png" alt="terminal"></code>
 
 ### Projects and Dev Stuffs:
 
