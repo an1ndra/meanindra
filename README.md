@@ -16,12 +16,10 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript, etc 💻.
+- 🛠 I’m currently working for gsoc and android.
 - 🚀 I’m currently learning Full Stack Development.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/meanindra).
-- 💬 Ask me about anything [here](https://github.com/meanindra/meanindra/issues/2)! I am happy to help.
 - 📫 How to reach me: anindrakarmakar13@gmail.com
-- 📝 Checkout my [Resume](https://github.com/meanindra/meanindra/blob/master/resume.pdf).
 
 ### Programming language That I Used:
 
