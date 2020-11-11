@@ -18,7 +18,8 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 
 - 🛠 I’m currently studying DSA for competitive programming
 <center>
-https://run.kaist.ac.kr/badges/codeforces/anindra.svg
+![[Codeforest](https://run.kaist.ac.kr/badges/codeforces/anindra.svg)
+
 
 https://run.kaist.ac.kr/badges/topcoder/kuratowski.svg
 
