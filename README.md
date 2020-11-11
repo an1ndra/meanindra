@@ -17,6 +17,14 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently studying DSA for competitive programming
+<center>
+https://run.kaist.ac.kr/badges/codeforces/anindra.svg
+
+https://run.kaist.ac.kr/badges/topcoder/kuratowski.svg
+
+https://run.kaist.ac.kr/badges/atcoder/topology.svg
+
+</center>
 - 🚀 I’m currently learning Full Stack Development.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/meanindra).
 - 📫 How to reach me: anindrakarmakar13@gmail.com
