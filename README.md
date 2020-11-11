@@ -16,7 +16,7 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working for gsoc and android.
+- 🛠 I’m currently studying DSA for competitive programming
 - 🚀 I’m currently learning Full Stack Development.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/meanindra).
 - 📫 How to reach me: anindrakarmakar13@gmail.com
