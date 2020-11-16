@@ -8,7 +8,7 @@
 [![Codeforest](https://run.kaist.ac.kr/badges/codeforces/anindra.svg)](https://run.kaist.ac.kr/badges/codeforces/anindra.svg)
 
 
-### Welcome to my github profile <img src="https://raw.githubusercontent.com/meanindra/meanindra/master/gifs/giphy.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=meanindra.meanindra&style=flat-square&color=0088cc)
+### Welcome to my github profile <img src="https://raw.githubusercontent.com/meanindra/meanindra/master/giphy.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=meanindra.meanindra&style=flat-square&color=0088cc)
 
 I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal Institute Of Technology And Management (BITM) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies. I like to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently lurning Java for competitive programming 🕸️ and also learning Data Structures and Algorithms 🤓.
 
