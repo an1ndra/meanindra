@@ -27,6 +27,12 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anindra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Github Commands:
+- git clone git@github.com:meanindra/Terasology.git	#clone ggithub repo
+- git status	#check status
+- git add .   #ready to commit
+- git commit -m "< git message >" -m "< description >"
+
 ### Languages and Tools:
 
 <code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/python.png" alt="python"></code>
@@ -103,8 +109,3 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 </details>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=meanindra&show_icons=true&hide_border=true" />
 <br/>
-### Github Commands:
-- git clone git@github.com:meanindra/Terasology.git	#clone ggithub repo
-- git status	#check status
-- git add .   #ready to commit
-- git commit -m "< git message >" -m "< description >"
