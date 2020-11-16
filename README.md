@@ -102,9 +102,9 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 	
 </details>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=meanindra&show_icons=true&hide_border=true" />
-<br>
-### Github Commands
-git clone git@github.com:meanindra/Terasology.git	#clone ggithub repo
-git status	#check status
-git add .   #ready to commit
-git commit -m "< git message >" -m "< description >"
+<br/>
+### Github Commands:
+- git clone git@github.com:meanindra/Terasology.git	#clone ggithub repo
+- git status	#check status
+- git add .   #ready to commit
+- git commit -m "< git message >" -m "< description >"
