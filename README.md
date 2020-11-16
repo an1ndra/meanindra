@@ -102,3 +102,5 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 	
 </details>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=meanindra&show_icons=true&hide_border=true" />
+<br>
+##Github Commands
