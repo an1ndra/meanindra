@@ -51,50 +51,6 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>Open source projects:</b></summary>
-
-<br />
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>💻 Projects</b></td>
-      <td><b>🍴 Forks</b></td>
-      <td><b>🐛 Issues</b></td>
-      <td><b>🔔 Pull Requests</b></td>
-      <td><b>👨‍💻 Language</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-	    <td><a href="https://github.com/meanindra/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TheNodeCourse?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TheNodeCourse?style=flat-square"/></td> 
-    </tr>
-    <tr>
-	    <td><a href="https://github.com/meanindra/Gitwar"><b>🚀 Gitwar</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/Gitwar?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/Gitwar?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
-    </tr>
-    <tr>
-	    <td><a href="https://github.com/meanindra/TradeByte"><b>💸 TradeByte</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/iampavangandhi/TradeByte?style=flat-square"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/iampavangandhi/TradeByte?style=flat-square"/></td>
-      <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
-    </tr>
-  </tbody>
-</table>
-
-</details>
-
-<details>
 	
   <br />
   <summary><b>Things I use to get stuff done:</b></summary>
