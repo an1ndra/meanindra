@@ -27,7 +27,7 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anindra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Git Commands:
+<!-- ### Git Commands:
 	Check Git version -⇒ git --version
 	Clone a repo -⇒ git clone git@github.com:meanindra/git.git
 	Show .git directory -⇒ ls -la
@@ -50,7 +50,7 @@ I'm a 2nd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 	Undo commits -⇒ git reset HEAD~1 (Reset to last commit)
 	Show all commits -⇒ git log
 	Undo all changes and commits -⇒ git reset --hard nf87b77fs678ddv8dabf87f8s9f
-
+ -->
 ### Languages and Tools:
 
 <code><img height="28" src="https://raw.githubusercontent.com/meanindra/meanindra/master/python.png" alt="python"></code>
