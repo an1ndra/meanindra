@@ -1,112 +1,113 @@
 # OEM
-https://ad.xiaomi.com
-https://api.ad.xiaomi.com
-https://app.chat.xiaomi.net
-https://data.mistat.xiaomi.com
-https://data.mistat.intl.xiaomi.com
-https://data.mistat.india.xiaomi.com
-https://data.mistat.rus.xiaomi.com
-https://sdkconfig.ad.xiaomi.com
-https://sdkconfig.ad.intl.xiaomi.com
-https://stat.xiaomi.com
-https://globalapi.ad.xiaomi.com
-https://www.cdn.ad.xiaomi.com
-https://tracking.miui.com
-https://sa.api.intl.miui.com
-https://tracking.miui.com
-https://tracking.intl.miui.com
-https://tracking.india.miui.com
-https://tracking.rus.miui.com
 
-https://metrics.data.hicloud.com
-https://metrics1.data.hicloud.com
-https://metrics2.data.hicloud.com
-https://metrics3.data.hicloud.com
-https://metrics4.data.hicloud.com
-https://metrics5.data.hicloud.com
-https://logservice.hicloud.com
-https://logservice1.hicloud.com
-https://metrics-dra.dt.hicloud.com
-https://logbak.hicloud.com
+127.0.0.1 https://api.ad.xiaomi.com
+127.0.0.1 https://ad.xiaomi.com
+127.0.0.1 https://app.chat.xiaomi.net
+127.0.0.1 https://data.mistat.xiaomi.com
+127.0.0.1 https://data.mistat.intl.xiaomi.com
+127.0.0.1 https://data.mistat.india.xiaomi.com
+127.0.0.1 https://data.mistat.rus.xiaomi.com
+127.0.0.1 https://sdkconfig.ad.xiaomi.com
+127.0.0.1 https://sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 https://stat.xiaomi.com
+127.0.0.1 https://globalapi.ad.xiaomi.com
+127.0.0.1 https://www.cdn.ad.xiaomi.com
+127.0.0.1 https://tracking.miui.com
+127.0.0.1 https://sa.api.intl.miui.com
+127.0.0.1 https://tracking.miui.com
+127.0.0.1 https://tracking.intl.miui.com
+127.0.0.1 https://tracking.india.miui.com
+127.0.0.1 https://tracking.rus.miui.com
 
-https://analytics.oneplus.cn
-https://click.oneplus.cn
-https://click.oneplus.com
-https://open.oneplus.net
+127.0.0.1 https://metrics.data.hicloud.com
+127.0.0.1 https://metrics1.data.hicloud.com
+127.0.0.1 https://metrics2.data.hicloud.com
+127.0.0.1 https://metrics3.data.hicloud.com
+127.0.0.1 https://metrics4.data.hicloud.com
+127.0.0.1 https://metrics5.data.hicloud.com
+127.0.0.1 https://logservice.hicloud.com
+127.0.0.1 https://logservice1.hicloud.com
+127.0.0.1 https://metrics-dra.dt.hicloud.com
+127.0.0.1 https://logbak.hicloud.com
 
-https://ad.samsungadhub.com
-https://samsungadhub.com
-https://ad.samsungads.com
-https://samsungads.com
-https://smetrics.samsung.com
-https://nmetrics.samsung.com
-https://samsung-com.112.2o7.net
-https://business.samsungusa.com
-https://analytics.samsungknox.com
-https://bigdata.ssp.samsung.com
-https://analytics-api.samsunghealthcn.com
-https://config.samsungads.com
+127.0.0.1 https://analytics.oneplus.cn
+127.0.0.1 https://click.oneplus.cn
+127.0.0.1 https://click.oneplus.com
+127.0.0.1 https://open.oneplus.net
 
-https://metrics.apple.com
-https://securemetrics.apple.com
-https://supportmetrics.apple.com
-https://metrics.icloud.com
-https://metrics.mzstatic.com
+127.0.0.1 https://ad.samsungadhub.com
+127.0.0.1 https://samsungadhub.com
+127.0.0.1 https://ad.samsungads.com
+127.0.0.1 https://samsungads.com
+127.0.0.1 https://smetrics.samsung.com
+127.0.0.1 https://nmetrics.samsung.com
+127.0.0.1 https://samsung-com.112.2o7.net
+127.0.0.1 https://business.samsungusa.com
+127.0.0.1 https://analytics.samsungknox.com
+127.0.0.1 https://bigdata.ssp.samsung.com
+127.0.0.1 https://analytics-api.samsunghealthcn.com
+127.0.0.1 https://config.samsungads.com
+
+127.0.0.1 https://metrics.apple.com
+127.0.0.1 https://securemetrics.apple.com
+127.0.0.1 https://supportmetrics.apple.com
+127.0.0.1 https://metrics.icloud.com
+127.0.0.1 https://metrics.mzstatic.com
 
 
-https://pixel.facebook.com
-https://analytics.facebook.com
-https://ads.facebook.com
+127.0.0.1 https://pixel.facebook.com
+127.0.0.1 https://analytics.facebook.com
+127.0.0.1 https://ads.facebook.com
 
-https://ads-twitter.com
-https://static.ads-twitter.com
+127.0.0.1 https://ads-twitter.com
+127.0.0.1 https://static.ads-twitter.com
 
-https://ads.linkedin.com
-https://analytics.pointdrive.linkedin.com
+127.0.0.1 https://ads.linkedin.com
+127.0.0.1 https://analytics.pointdrive.linkedin.com
 
-https://ads.pinterest.com
-https://log.pinterest.com
-https://ct.pinterest.com
-https://analytics.pinterest.com
-https://trk.pinterest.com
+127.0.0.1 https://ads.pinterest.com
+127.0.0.1 https://log.pinterest.com
+127.0.0.1 https://ct.pinterest.com
+127.0.0.1 https://analytics.pinterest.com
+127.0.0.1 https://trk.pinterest.com
 
-https://ads.reddit.com
-https://stats.redditmedia.com
-https://rereddit.com
-https://events.redditmedia.com
+127.0.0.1 https://ads.reddit.com
+127.0.0.1 https://stats.redditmedia.com
+127.0.0.1 https://rereddit.com
+127.0.0.1 https://events.redditmedia.com
 
-https://ads.youtube.com
-https://youtube.cleverads.vn
+127.0.0.1 https://ads.youtube.com
+127.0.0.1 https://youtube.cleverads.vn
 
-https://analytics.tiktok.com
-https://ads.tiktok.com
+127.0.0.1 https://analytics.tiktok.com
+127.0.0.1 https://ads.tiktok.com
 
-https://ads.yahoo.com
-https://global.adserver.yahoo.com
-https://analytics.yahoo.com
-https://ads.yap.yahoo.com
+127.0.0.1 https://ads.yahoo.com
+127.0.0.1 https://global.adserver.yahoo.com
+127.0.0.1 https://analytics.yahoo.com
+127.0.0.1 https://ads.yap.yahoo.com
 
-https://appmetrica.yandex.com
-https://yandexadexchange.net
-https://analytics.mobile.yandex.net
-https://extmaps-api.yandex.net
-https://adsdk.yandex.ru
+127.0.0.1 https://appmetrica.yandex.com
+127.0.0.1 https://yandexadexchange.net
+127.0.0.1 https://analytics.mobile.yandex.net
+127.0.0.1 https://extmaps-api.yandex.net
+127.0.0.1 https://adsdk.yandex.ru
 
-https://notify.bugsnag.com
-https://sessions.bugsnag.com
+127.0.0.1 https://notify.bugsnag.com
+127.0.0.1 https://sessions.bugsnag.com
 
-https://browser.sentry-cdn.com
+127.0.0.1 https://browser.sentry-cdn.com
 
-https://media.fastclick.net/
-https://cdn.fastclick.net/
+127.0.0.1 https://media.fastclick.net/
+127.0.0.1 https://cdn.fastclick.net/
 
-https://freshmarketer.com/
+127.0.0.1 https://freshmarketer.com/
 
-https://cdn.luckyorange.com
-https://w1.luckyorange.com
-https://upload.luckyorange.net
-https://cs.luckyorange.net
-https://settings.luckyorange.net
+127.0.0.1 https://cdn.luckyorange.com
+127.0.0.1 https://w1.luckyorange.com
+127.0.0.1 https://upload.luckyorange.net
+127.0.0.1 https://cs.luckyorange.net
+127.0.0.1 https://settings.luckyorange.net
 
-https://browser.sentry-cdn.com
+127.0.0.1 https://browser.sentry-cdn.com
 
