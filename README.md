@@ -76,7 +76,7 @@ I'm a 3rd year student pursuing Bachelors's in Computer Science 🎓 from Bengal
 	    <li><b>Code Editor:</b> VSCode , Android-Studio, Intellij IDEAe</li>
 		<li><b>Dotfile: <a href="https://github.com/meanindra/.dotfile.git">https://github.com/meanindra/.dotfile.git</a>
 	    <br />
-	Checkout The Complete VSCode Settings <a href="https://gist.github.com/meanindra/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	<!-- Checkout The Complete VSCode Settings <a href="https://gist.github.com/meanindra/039b1dc5a7cdcb007ab3691814d53130">Here</a> -->
 	</ul>
 	
 </details>
