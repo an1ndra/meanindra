@@ -5,7 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@i_anindra-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/i_anindra)
 [![Instagram Badge](https://img.shields.io/badge/-@i_anindra-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/i_anindra/)
 [![Telegram Badge](https://img.shields.io/badge/-@i_anindra-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/i_anindra)
-[![Codeforest](https://run.kaist.ac.kr/badges/codeforces/anindra.svg)](https://run.kaist.ac.kr/badges/codeforces/anindra.svg)
 
 
 ### Welcome to my github profile <img src="https://raw.githubusercontent.com/meanindra/meanindra/master/giphy.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=meanindra.meanindra&style=flat-square&color=0088cc)
