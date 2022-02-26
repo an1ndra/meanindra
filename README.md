@@ -9,7 +9,7 @@
 
 ### Welcome to my github profile <img src="https://raw.githubusercontent.com/meanindra/meanindra/master/giphy.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=meanindra.meanindra&style=flat-square&color=0088cc)
 
-I'm a 3rd year student pursuing Bachelors's in Computer Science 🎓 from Bengal Institute Of Technology And Management (BITM) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies. I like to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently learning Android and Spring boot 🤓.
+I'm a 3rd year student pursuing Bachelors's in Computer Science 🎓 from Bengal Institute Of Technology And Management (BITM) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies. I like to solve real-life problems ✨.I'm currently learning Android and Spring boot 🤓.
 
 [![](https://gitwar.herokuapp.com/badge?username=meanindra&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
