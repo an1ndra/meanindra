@@ -1,4 +1,4 @@
-## Hello World, I'm [Anindra Karmakar](https://github.com/meanindra/) <img src="https://raw.githubusercontent.com/meanindra/meanindra/master/Hi.gif" width="28px"></h2>
+## Hello World, I'm [Anindra Karmakar](https://github.com/meanindra/) 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anindra%20Karmakar-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anindra-karmakar-67720514b/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://codeavenge.com)
@@ -7,7 +7,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-@i_anindra-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/i_anindra)
 
 
-### Welcome to my github profile <img src="https://raw.githubusercontent.com/meanindra/meanindra/master/giphy.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=meanindra.meanindra&style=flat-square&color=0088cc)
+### Welcome to my github profile
 
 I'm a 3rd year student pursuing Bachelors's in Computer Science 🎓 from Bengal Institute Of Technology And Management (BITM) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies. I like to solve real-life problems ✨.I'm currently learning Android and Spring boot 🤓.
 
